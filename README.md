@@ -77,7 +77,8 @@ Metric selection(REvenue/ Profit/ Units sold)
 
 ### Dashboard screenshots
 
-![Dashboard]
+   ![Dashboard](dashboard.png)
+   
 ## Insights
 
 The highest number of products sold among the three product categories is skincare, which accounts for 45% of the business. Haircare follows at 29%, and cosmetics contribute 25% to the revenue.
